@@ -1,4 +1,5 @@
-##README FILE
+## GitHub Readme
+
 The application opens and reads "Hello World" at first.
 It also has a edit text box that says enter your name, 
 with a button that says click me underneath.
